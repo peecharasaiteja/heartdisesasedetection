@@ -1,4 +1,6 @@
 colab link:https://colab.research.google.com/drive/1c5pYtka_OsvArF8bQTnuWzWOd7_b2Ui9
+
+
 1.Introduction
 Heart disease remains one of the leading causes of mortality worldwide, necessitating effective detection methods to mitigate its impact on public health. Early identification of individuals at risk of heart disease enables timely intervention, thereby reducing morbidity and mortality rates. This project aims to develop a predictive model for heart disease detection by leveraging machine learning algorithms and clinical data.
 
